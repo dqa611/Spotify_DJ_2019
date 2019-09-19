@@ -3,6 +3,8 @@ This project will help you create a track mix based on your Spotify Playlist. Ru
 
 The alogirthm creates a mix based on the Camelot harmonic mixing rule as well as similarity between previous and next track (tempo, danceability, valence and energy, all of which are populated from Spotify API). 
 
+The algorithm will only ask you to input the first track of the playlist. As the result, how the mix is going to be played out depends on the first track that you choose.
+
 Check out my Spotify account (anhquocduong611) and look for playlist mixed by Python script :) For better effect, enable crossfade mode and don't shuffle.
 
 Future development: I might want to mix the track by modifying the track playback, but currently Spotify is not allowing.
