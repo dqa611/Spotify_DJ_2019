@@ -1,4 +1,4 @@
-# Spotify_DJ
+# Spotify_Playlist_Mixed_created_by_Python
 This project will help you create a track mix based on your Spotify Playlist. Run Spotify API to collect a playlist's data, then select the track and duration of the mix. 
 
 The alogirthm creates a mix based on the Camelot harmonic mixing rule as well as similarity between previous and next track (tempo, danceability, valence and energy, all of which are populated from Spotify API). 
